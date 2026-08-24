@@ -2,11 +2,15 @@
 
 **AI Security / Systems / Android / Applied R&D**  
 Norway · Remote-friendly · Available for consulting, contract or employment  
-GitHub: https://github.com/bspippi1337
+GitHub: https://github.com/bspippi1337  
+Email: bspippi1337@gmail.com  
+Phone: +47 465 66 663
 
 ## Profile
 
 Independent technical practitioner working across **AI safety evaluation, Unix/API tooling, Android firmware, security tooling, reverse engineering and rapid product prototyping**.
+
+I was hired as a **Senior Systems Consultant at Umoe IKT at age 19**. I am 38 now. The useful part of that history is not the title itself, but the pattern behind it: I have been trusted with difficult systems unusually early, and I am still hungry for problems that reward technical depth, autonomy and unconventional investigation.
 
 My strongest pattern is not a single framework or job title. It is taking an unfamiliar system, mapping what is actually happening, reducing assumptions, testing edge cases, and turning the result into something reproducible: code, a build pipeline, a technical artifact, an audit trail or a working prototype.
 
@@ -170,6 +174,9 @@ Available now for:
 - R&D prototyping
 - permanent roles where the work benefits from broad systems thinking
 
-**Contact:** https://github.com/bspippi1337
+**Contact:**  
+Email: bspippi1337@gmail.com  
+Phone: +47 465 66 663  
+GitHub: https://github.com/bspippi1337
 
 See also: [proof-of-work timeline](PROOF_OF_WORK.md) and [reverse job ad](README.md).
