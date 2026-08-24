@@ -6,6 +6,11 @@ The first external submissions should go to **OpenAI** and **Google / Google Dee
 
 This is intentionally not a conventional “spray 100 applications” plan. The portfolio is unusual enough that the fastest path is likely a small number of highly targeted, evidence-heavy submissions followed by broad amplification.
 
+Contact:
+- bspippi1337@gmail.com
+- +47 465 66 663
+- https://github.com/bspippi1337
+
 ---
 
 ## Phase 0 — approval gate
@@ -18,6 +23,51 @@ Do not submit externally until:
 - contact details / preferred public identity are confirmed
 
 Once approved, freeze a tagged snapshot so every employer sees the same evidence set.
+
+---
+
+# Compensation strategy
+
+Do **not** put one fixed salary demand in the public CV. Keep compensation as a negotiation parameter tied to role, scope, location, equity and employment model.
+
+### Norway — permanent senior / specialist role
+
+Negotiation anchor: **NOK 1.2–1.5M base salary**, depending on responsibility, benefits and equity.
+
+Reasoning: current Norway senior-software compensation data places the market median around NOK 1.07M total compensation and the 90th percentile around NOK 1.32M. The portfolio is being positioned above a generic senior-engineer profile because it combines security, AI evaluation, systems work, Android/firmware and demonstrated independent R&D.
+
+### Norway / Europe — consulting
+
+Opening range: **NOK 1,500–2,000 per hour** for specialist work.
+
+This can move up or down with contract length, guaranteed volume, travel, urgency and whether the client is buying focused investigation or ordinary implementation capacity.
+
+### OpenAI / comparable frontier-AI employer
+
+Do **not** underbid the employer's published band.
+
+As of 24 Aug 2026, OpenAI's Red Team Specialist — Cyber role publishes:
+
+**USD 198,000–320,000 + equity**
+
+Official posting:
+https://openai.com/careers/red-team-specialist-cyber-san-francisco/
+
+If the application reaches compensation discussion, the goal is to negotiate inside the published band based on demonstrated security depth, systems breadth and evidence quality rather than volunteer a lower number first.
+
+### Google / Google DeepMind
+
+Use the same principle: ask for the role's compensation band before giving a fixed number when possible, then negotiate against level, scope and local market rather than a Norway-only salary anchor.
+
+---
+
+# Career signal worth using
+
+A memorable but factual line for targeted outreach:
+
+> I was hired as a Senior Systems Consultant at Umoe IKT at 19. I am 38 now, and still hungry for the kind of technical work where finding the real failure mode matters more than following the usual playbook.
+
+Use this selectively. It is strongest as an opening signal, not repeated throughout every document.
 
 ---
 
