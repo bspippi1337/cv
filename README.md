@@ -46,6 +46,16 @@ Maintained and repaired a CVE/exploit-search fork, including false-positive fixe
 
 https://github.com/bspippi1337/cve-maker
 
+## Previous media coverage
+
+In May 2021, ITavisen published a feature about my security work and social-engineering investigation under the name Anders Tednes:
+
+**“Slik hacket Anders til seg FBI og politiets etterforskningsverktøy – ber om at politiet anmelder ham”** — Trond Bie, ITavisen, 6 May 2021.
+
+https://itavisen.no/2021/05/06/norsk-hacker-star-frem-slik-hacket-anders-til-seg-fbi-og-politiets-etterforskningsverktoy-ber-om-at-politiet-anmelder-ham/
+
+The story documented how social engineering obtained access to restricted investigative tooling and how the incident was then reported rather than quietly exploited. Five years later, the same instinct — probe the boundary, document what actually happens, and surface the failure mode — is increasingly relevant to AI systems and agent security.
+
 ## What I want
 
 Problems worth investigating, autonomy to investigate them, and **payment for the work**.
@@ -73,4 +83,5 @@ Good fits include:
 
 → [CV](CV.md)  
 → [Proof-of-work timeline](PROOF_OF_WORK.md)  
-→ [Fastest outreach plan](OUTREACH.md)
+→ [OpenAI / Google-first outreach plan](OUTREACH.md)  
+→ [ITavisen press note](PRESS_ITAVISEN.md)
