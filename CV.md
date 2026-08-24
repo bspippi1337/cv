@@ -149,6 +149,18 @@ Public projects also include build automation for Samsung XCover 4S / NetHunter-
 Proof:
 - https://github.com/bspippi1337/blckswan-xcover4s-nethunter-kernel
 
+## Previous media coverage
+
+### ITavisen, 6 May 2021
+
+ITavisen profiled my security work under the name **Anders Tednes** in Trond Bie's feature:
+
+**“Slik hacket Anders til seg FBI og politiets etterforskningsverktøy – ber om at politiet anmelder ham.”**
+
+The article documented a social-engineering route into restricted investigative tooling, including Griffeye-related access, and the decision to report the access rather than conceal it.
+
+https://itavisen.no/2021/05/06/norsk-hacker-star-frem-slik-hacket-anders-til-seg-fbi-og-politiets-etterforskningsverktoy-ber-om-at-politiet-anmelder-ham/
+
 ## How I work
 
 - Map the system before changing it.
@@ -179,4 +191,4 @@ Email: bspippi1337@gmail.com
 Phone: +47 465 66 663  
 GitHub: https://github.com/bspippi1337
 
-See also: [proof-of-work timeline](PROOF_OF_WORK.md) and [reverse job ad](README.md).
+See also: [proof-of-work timeline](PROOF_OF_WORK.md), [reverse job ad](README.md), and [ITavisen press note](PRESS_ITAVISEN.md).
