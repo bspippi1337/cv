@@ -177,9 +177,34 @@ Suggested opening line:
 
 ---
 
-# Phase 2 — broad amplification after OpenAI + Google have first look
+# THIRD MOVE — ITAVISEN AMPLIFIER
 
-Once the first submissions are made, use one canonical URL:
+Only after OpenAI and Google / Google DeepMind have received the approved package, send the prepared ITavisen follow-up:
+
+[PRESS_ITAVISEN.md](PRESS_ITAVISEN.md)
+
+Why this is unusually efficient:
+
+- ITavisen already documented the 2021 security / social-engineering story.
+- The follow-up has a built-in five-year arc rather than a cold self-promotion pitch.
+- The new story points to public evidence rather than asking the journalist to trust unsupported claims.
+- A published article can put the same canonical CV URL in front of employers, security people and Norwegian tech readers at once.
+
+Recommended headline angle:
+
+> **Før ba han politiet anmelde ham. Nå ber han OpenAI og Google ansette ham.**
+
+Alternative:
+
+> **Han “hacket” seg til FBI-verktøy. Nå vil han få betalt for å finne feil i AI.**
+
+This is an amplifier, not a substitute for the direct applications. OpenAI and Google should see the portfolio first.
+
+---
+
+# Phase 3 — broad amplification
+
+After the two priority applications and the ITavisen pitch, use one canonical URL:
 
 https://github.com/bspippi1337/cv
 
@@ -220,6 +245,7 @@ That is faster and more credible than a conventional multi-page CV full of unsup
 6. Submit to OpenAI first.
 7. Submit to Google / Google DeepMind second.
 8. Record submission timestamp and target.
-9. Begin broader distribution immediately afterward.
+9. Send ITavisen follow-up pitch.
+10. Begin broader distribution immediately afterward.
 
 No external submission should be claimed as completed without a confirmation, application receipt, sent-email record, or equivalent evidence.
