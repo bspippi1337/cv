@@ -4,6 +4,8 @@
 
 I am looking for **paid work**, either as a consultant, contractor, specialist or employee.
 
+I was hired as a **Senior Systems Consultant at Umoe IKT at age 19**. I am 38 now, and still hungry for the kind of difficult technical work where broad systems knowledge, adversarial thinking and persistence actually matter.
+
 I work best where the system is unfamiliar, brittle, adversarial, under-documented, or simply behaving in a way nobody quite understands yet.
 
 I do not sell a title. I sell a shorter path from **weird problem → evidence → working result**.
@@ -61,7 +63,9 @@ Good fits include:
 **Remote:** Yes  
 **Engagement:** consulting, contract, fixed-scope or employment  
 **Languages:** Norwegian / English  
-**Contact:** GitHub @bspippi1337
+**Email:** bspippi1337@gmail.com  
+**Phone:** +47 465 66 663  
+**GitHub:** @bspippi1337
 
 ## The shortest version
 
