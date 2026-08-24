@@ -2,9 +2,13 @@
 
 **Status: HOLD until CV is explicitly approved.**
 
-The first external submissions should go to **OpenAI** and **Google / Google DeepMind**. They get the first opportunity before broader distribution.
+At approval, launch **three parallel first-wave outreaches**:
 
-This is intentionally not a conventional “spray 100 applications” plan. The portfolio is unusual enough that the fastest path is likely a small number of highly targeted, evidence-heavy submissions followed by broad amplification.
+1. **OpenAI** — direct targeted application / pitch
+2. **Google / Google DeepMind** — direct targeted application / pitch
+3. **ITavisen** — follow-up press pitch to amplify the same proof-of-work story
+
+None of the three waits for the others. The goal is to create direct employer contact and public visibility at the same time.
 
 Contact:
 - bspippi1337@gmail.com
@@ -22,7 +26,7 @@ Do not submit externally until:
 - `PROOF_OF_WORK.md` is checked for factual accuracy
 - contact details / preferred public identity are confirmed
 
-Once approved, freeze a tagged snapshot so every employer sees the same evidence set.
+Once approved, freeze a tagged snapshot so every recipient sees the same evidence set.
 
 ---
 
@@ -53,7 +57,7 @@ As of 24 Aug 2026, OpenAI's Red Team Specialist — Cyber role publishes:
 Official posting:
 https://openai.com/careers/red-team-specialist-cyber-san-francisco/
 
-If the application reaches compensation discussion, the goal is to negotiate inside the published band based on demonstrated security depth, systems breadth and evidence quality rather than volunteer a lower number first.
+If the application reaches compensation discussion, negotiate inside the published band based on demonstrated security depth, systems breadth and evidence quality rather than volunteering a lower number first.
 
 ### Google / Google DeepMind
 
@@ -71,15 +75,15 @@ Use this selectively. It is strongest as an opening signal, not repeated through
 
 ---
 
-# FIRST PRIORITY — OPENAI
+# PARALLEL LAUNCH A — OPENAI
 
 ## Why the fit is unusually direct
 
-Current OpenAI roles explicitly overlap with the portfolio:
+Current OpenAI roles explicitly overlap with the portfolio.
 
 ### Red Team Specialist — Cyber
 
-The role asks for work including:
+Relevant work includes:
 
 - rigorous evaluation of model cyber capabilities and safeguards
 - policy adherence / refusal / over-refusal testing
@@ -121,7 +125,7 @@ Relevant overlap:
 Official role:
 https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/
 
-## First OpenAI package
+## OpenAI package
 
 Submit / present:
 
@@ -135,15 +139,13 @@ Submit / present:
    - Android / OS42 work
    - CVE-MAKER evidence
 
-The pitch should not claim formal AI-safety credentials that are not documented. The differentiator is **observable adversarial instinct + systems breadth + reproducible evidence**.
-
 Suggested opening line:
 
 > I have been independently documenting model failure modes that map directly onto your cyber red-team brief: constraint decay, false completion claims, format-boundary failures, indirect instruction effects and verification gaps. I would rather do this work inside a team that pays for it and can turn findings into mitigations.
 
 ---
 
-# SECOND PRIORITY — GOOGLE / GOOGLE DEEPMIND
+# PARALLEL LAUNCH B — GOOGLE / GOOGLE DEEPMIND
 
 ## Why the fit exists
 
@@ -154,8 +156,6 @@ https://deepmind.google/careers/
 
 Responsibility / safety context:
 https://deepmind.google/responsibility-and-safety/
-
-Google DeepMind also explicitly documents internal and external red-team / evaluation work, including adversarial testing and independent external evaluators.
 
 ## Best positioning
 
@@ -169,7 +169,7 @@ Pitch for the intersection of:
 - research engineering
 - systems / tooling for evaluations
 
-The Restless project strengthens this application because it demonstrates an actual systems-engineering substrate rather than only prompt experimentation.
+Restless strengthens this application because it demonstrates an actual systems-engineering substrate rather than only prompt experimentation.
 
 Suggested opening line:
 
@@ -177,18 +177,19 @@ Suggested opening line:
 
 ---
 
-# THIRD MOVE — ITAVISEN AMPLIFIER
+# PARALLEL LAUNCH C — ITAVISEN
 
-Only after OpenAI and Google / Google DeepMind have received the approved package, send the prepared ITavisen follow-up:
+Send the prepared follow-up at the **same launch window** as OpenAI and Google / Google DeepMind:
 
 [PRESS_ITAVISEN.md](PRESS_ITAVISEN.md)
 
-Why this is unusually efficient:
+Why it belongs in parallel rather than afterward:
 
 - ITavisen already documented the 2021 security / social-engineering story.
 - The follow-up has a built-in five-year arc rather than a cold self-promotion pitch.
-- The new story points to public evidence rather than asking the journalist to trust unsupported claims.
-- A published article can put the same canonical CV URL in front of employers, security people and Norwegian tech readers at once.
+- The new story points to public evidence rather than unsupported claims.
+- If the article moves quickly, OpenAI and Google may encounter independent media context while the direct applications are already in their pipelines.
+- If the article moves slowly, nothing is lost because employer outreach is already underway.
 
 Recommended headline angle:
 
@@ -198,13 +199,13 @@ Alternative:
 
 > **Han “hacket” seg til FBI-verktøy. Nå vil han få betalt for å finne feil i AI.**
 
-This is an amplifier, not a substitute for the direct applications. OpenAI and Google should see the portfolio first.
+This is an amplifier running in parallel with direct applications, not a prerequisite and not a substitute for them.
 
 ---
 
-# Phase 3 — broad amplification
+# Phase 2 — broad amplification
 
-After the two priority applications and the ITavisen pitch, use one canonical URL:
+After the first-wave outreach is launched, use one canonical URL:
 
 https://github.com/bspippi1337/cv
 
@@ -235,17 +236,15 @@ That is faster and more credible than a conventional multi-page CV full of unsup
 
 ---
 
-# Approval workflow
+# Approval and launch workflow
 
-1. User reviews `README.md`, `CV.md`, and `PROOF_OF_WORK.md`.
+1. User reviews `README.md`, `CV.md`, `PROOF_OF_WORK.md`, and `PRESS_ITAVISEN.md`.
 2. Correct anything inaccurate or too weak/strong.
 3. Create a tagged approved snapshot.
-4. Prepare OpenAI-specific one-page pitch.
-5. Prepare Google/DeepMind-specific one-page pitch.
-6. Submit to OpenAI first.
-7. Submit to Google / Google DeepMind second.
-8. Record submission timestamp and target.
-9. Send ITavisen follow-up pitch.
-10. Begin broader distribution immediately afterward.
+4. Finalize OpenAI-specific one-page pitch.
+5. Finalize Google/DeepMind-specific one-page pitch.
+6. **Launch OpenAI + Google/DeepMind + ITavisen in parallel.**
+7. Record submission/send timestamps and confirmation evidence for all three.
+8. Begin broader distribution immediately afterward.
 
 No external submission should be claimed as completed without a confirmation, application receipt, sent-email record, or equivalent evidence.
