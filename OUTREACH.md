@@ -10,6 +10,25 @@ At approval, launch **three parallel first-wave outreaches**:
 
 None of the three waits for the others. The goal is to create direct employer contact and public visibility at the same time.
 
+## Transparency rule — no BCC, no hidden parallel outreach
+
+The three recipients must know about each other.
+
+- **No BCC.**
+- OpenAI is told that Google / Google DeepMind and ITavisen are being contacted in the same launch window.
+- Google / Google DeepMind is told that OpenAI and ITavisen are being contacted in the same launch window.
+- ITavisen is told that the CV is being presented to OpenAI and Google / Google DeepMind at the same time.
+- Each outreach is sent directly to its intended recipient rather than using a hidden mass-mail pattern.
+- All three point to the same canonical CV snapshot so there is no private “special version” telling a different story.
+
+Recommended disclosure sentence for the two employer pitches:
+
+> I am sharing this portfolio with OpenAI, Google / Google DeepMind and ITavisen in the same launch window. This is deliberate and transparent: the employers are seeing the same proof-of-work package that the journalist can independently inspect.
+
+Recommended disclosure sentence for ITavisen:
+
+> Jeg sender denne henvendelsen parallelt med at den samme dokumenterte CV-en presenteres for OpenAI og Google / Google DeepMind. De får vite at ITavisen er kontaktet, og du får vite at de er kontaktet — ingen BCC og ingen skjult pitch.
+
 Contact:
 - bspippi1337@gmail.com
 - +47 465 66 663
@@ -143,6 +162,8 @@ Suggested opening line:
 
 > I have been independently documenting model failure modes that map directly onto your cyber red-team brief: constraint decay, false completion claims, format-boundary failures, indirect instruction effects and verification gaps. I would rather do this work inside a team that pays for it and can turn findings into mitigations.
 
+Add the transparency sentence above so OpenAI knows Google / DeepMind and ITavisen are receiving the same launch package.
+
 ---
 
 # PARALLEL LAUNCH B — GOOGLE / GOOGLE DEEPMIND
@@ -174,6 +195,8 @@ Restless strengthens this application because it demonstrates an actual systems-
 Suggested opening line:
 
 > My work sits between adversarial evaluation and systems engineering: I map unfamiliar systems, build small reproducible probes, classify failure modes, and preserve the evidence trail. Recent work includes LLM instruction-boundary failures, safe API discovery tooling, Android firmware pipelines and independently verifiable technical investigations.
+
+Add the same transparency sentence so Google / DeepMind knows OpenAI and ITavisen are receiving the same launch package.
 
 ---
 
@@ -241,10 +264,11 @@ That is faster and more credible than a conventional multi-page CV full of unsup
 1. User reviews `README.md`, `CV.md`, `PROOF_OF_WORK.md`, and `PRESS_ITAVISEN.md`.
 2. Correct anything inaccurate or too weak/strong.
 3. Create a tagged approved snapshot.
-4. Finalize OpenAI-specific one-page pitch.
-5. Finalize Google/DeepMind-specific one-page pitch.
-6. **Launch OpenAI + Google/DeepMind + ITavisen in parallel.**
-7. Record submission/send timestamps and confirmation evidence for all three.
-8. Begin broader distribution immediately afterward.
+4. Finalize OpenAI-specific one-page pitch, including explicit disclosure of the other two recipients.
+5. Finalize Google/DeepMind-specific one-page pitch, including explicit disclosure of the other two recipients.
+6. Finalize ITavisen note, explicitly stating that OpenAI and Google / DeepMind are being contacted at the same time and know about the press outreach.
+7. **Launch OpenAI + Google/DeepMind + ITavisen in parallel, as three direct communications, no BCC.**
+8. Record submission/send timestamps and confirmation evidence for all three.
+9. Begin broader distribution immediately afterward.
 
 No external submission should be claimed as completed without a confirmation, application receipt, sent-email record, or equivalent evidence.
